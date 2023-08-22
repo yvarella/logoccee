@@ -1,0 +1,5 @@
+simple-salesforce
+streamlit
+pandas
+altair
+openpyxl
